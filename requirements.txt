@@ -1,0 +1,4 @@
+openpyxl==3.0.10
+pandas==1.4.2
+pylightxl==1.59
+xlrd==1.2.0
